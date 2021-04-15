@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+body{
+    font-family: 'Zen Dots', cursive !important;
+}
+.navbar {
+    background-color: #33322f !important;
+}
+#pirmaKolona {
+    color: #33322f;
+    text-align: right; 
+    background-color: #85837d;;
+}
+#otraKolona {
+    color: #33322f;
+    text-align: left; 
+    background-color: #85837d;;
+}
+h2{
+    background-color: #85837d;
+    padding-bottom: 5px;
+    text-align: center;
+    padding-top: 10px;
+}
+body{
+    background-color: #85837d; 
+}

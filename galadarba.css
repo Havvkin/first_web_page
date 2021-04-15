@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+body{
+    font-family: 'Zen Dots', cursive !important;
+}
+body{
+    background-image: url("https://imgproxy.natucate.com/PAd5WVIh-tjEKQM4Z6tm6W1J4Yc2JIYWrKEroD1c7mM/rs:fill/g:ce/w:3840/h:2160/aHR0cHM6Ly93d3cubmF0dWNhdGUuY29tL21lZGlhL3BhZ2VzL3JlaXNlYXJ0ZW4vNmMwODZlYmEtNzk3Yi00ZDVjLTk2YTItODhhNGM4OWUyODdlLzM3NjYwMTQ2NjMtMTU2NzQzMzYxMi8xMl9kYW5pZWxfY2FuX2JjLTIwNy5qcGc");
+    background-size: cover;
+    color: black;
+}
+#pirmaKolona {
+    color: #33322f;
+    text-align: right; 
+    background-color: #3b3a39;
+    color:whitesmoke;
+}
+#otraKolona {
+    color: #33322f;
+    text-align: left; 
+    background-color: #3b3a39;
+    color:whitesmoke;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#titullapa{
+    text-align: center;
+    color: black;
+}
+#contacts{
+    text-align: center;
+    color: black;
+}
+.apraksts{
+    margin-left: 15%;
+    margin-top: 20px;
+}
+.navbar {
+    background-color: #33322f !important;
+    }
+    .apraksts2{
+        text-align: right;
+        margin-right: 10%;
+    }
+#bootstrap{
+    color: #351840;
+}
+#google{
+    color: #de041e;
+}
+#W3{
+    color: #044b19;
+}
